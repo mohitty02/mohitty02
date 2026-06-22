@@ -130,5 +130,3 @@ I'm always interested in discussing:
 💼 LinkedIn: https://www.linkedin.com/in/mohitty02
 
 ---
-
-> Building software that solves real business problems.<img width="1713" height="312" alt="image" src="https://github.com/user-attachments/assets/6374834f-8a10-49d6-a0bf-6eb62c76e9a0" />
